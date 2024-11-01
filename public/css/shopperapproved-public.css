@@ -1,0 +1,16 @@
+.star_container .ind_cnt {
+    display: inline !important;
+    padding-left: 8px !important;
+    font-size: 12px !important;
+    vertical-align: text-top !important;
+}
+
+a.new-sa-seals {
+    padding: 10px 20px;
+}
+
+#product_just_stars .SA__total_reviews a {
+    display: inline !important;
+    font-size: 12px !important;
+    vertical-align: text-bottom !important;
+}
